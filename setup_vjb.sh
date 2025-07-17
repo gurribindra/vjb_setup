@@ -20,4 +20,3 @@ fi
 
 
 
-tar -xvzf ~/VMware-vix-disklib*  ~/vmware-vix-disklib-distrib/
