@@ -10,4 +10,6 @@ sudo apt-get -y update
 sudo apt-get -y install jq
 
 
-echo 
+echo "*******Setting up VMware-vix-disklib*****" 
+cp VMware-vix-disklib* ~/.
+tar -xvzf ~/VMware-vix-disklib*  ~/vmware-vix-disklib-distrib/
